@@ -170,4 +170,12 @@ Overall,
 
 Reducing sugary drink consumption and increasing physical activity would likely have the greatest impact on lowering adolescent obesity rates, while improving fruit and vegetable intake provides additional but smaller benefits.
 
+
 These findings support public health strategies that prioritize limiting sugar-sweetened beverages and promoting physical activity, alongside broader efforts to improve dietary quality among adolescents.
+
+References: 
+https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Youth-Risk : YRBSS dataset
+https://app.grammarly.com/ : spelling and grammar check
+
+https://www.w3schools.com/python/matplotlib_intro.asp
+https://www.w3schools.com/python/pandas/pandas_cleaning.asp
